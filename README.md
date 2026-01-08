@@ -22,7 +22,7 @@ I am a Master’s student in Bioinformatics at the Georgia Institute of Technolo
 
 ## Featured Research & Projects
 
-### Ciona Splicing Analysis
+### Bioinformatic Analysis of Nova-Regulated Alternative Splicing in Ciona robusta
 Investigating Nova/Ebf-mediated splicing in **Ciona robusta** to identify alternative splicing events in key neuromuscular junction genes. I streamlined genomic analysis using STAR and IGV to characterize unannotated isoforms in claudin-h and claudin-k across multiple developmental stages. This work integrates CRISPR/Cas9-mediated knockouts with custom Sashimi plots to validate splicing shifts and transcriptomic changes.
 
 ### Protein Function Prediction using pLM Embeddings
