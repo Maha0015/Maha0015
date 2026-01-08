@@ -1,11 +1,11 @@
 ## Hi there 👋
 Hi, I'm Mahalakshmi Rajan! 👋
 
-##**Bioinformatics Graduate Student @ Georgia Tech**
+## **Bioinformatics Graduate Student @ Georgia Tech**
 
 I am a Master’s student in Bioinformatics at the Georgia Institute of Technology with hands-on experience in genomic data analysis, alternative splicing, and functional genomics. I focus on building and deploying computational pipelines and machine learning models to derive meaningful biological insights from complex datasets.
 
-##Technical Skills
+## Technical Skills
 
 **Languages & Databases:** Python (Pandas, NumPy, Scikit-learn, PyTorch), R (tidyverse, Bioconductor, DESeq2), Bash, Linux, MySQL.
 
@@ -17,7 +17,7 @@ I am a Master’s student in Bioinformatics at the Georgia Institute of Technolo
 
 **Protein Modeling:** Pymol, PyRx, SWISS-DOCK.
 
-##Featured Research & Projects
+## Featured Research & Projects
 
 **Ciona Splicing Analysis**
 Investigating Nova/Ebf-mediated splicing in Ciona robusta to identify alternative splicing events in key neuromuscular junction genes. I streamlined genomic analysis using STAR and IGV to characterize unannotated isoforms in claudin-h and claudin-k across multiple developmental stages. This work integrates CRISPR/Cas9-mediated knockouts with custom Sashimi plots to validate splicing shifts and transcriptomic changes.
@@ -33,7 +33,7 @@ Implemented workflow for processing 1000 Genomes VCF datasets. The pipeline auto
 Designed and implemented a relational database system for airline operations using MySQL Workbench. The project involved creating complex stored procedures, views, and functions to manage real-time data flow between airplanes, pilots, and passengers, ensuring strict data integrity and supporting operational monitoring.
 
 
-📫 Let's Connect!
+Let's Connect!
 
 LinkedIn: https://www.linkedin.com/in/Mahalakshmi--Rajan/
 
